@@ -1,5 +1,3 @@
-# Operations_Research_with_Machine_Learning
-
 # Operations Research with Machine Learning
 
 Welcome to the **Operations Research with Machine Learning** repository! This repository showcases various projects that integrate **machine learning** techniques with **operations research** to solve optimization, resource allocation, and decision-making problems. The aim is to demonstrate how advanced computational methods can enhance traditional operations research approaches.
