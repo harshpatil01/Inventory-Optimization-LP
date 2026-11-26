@@ -91,3 +91,7 @@ Contributions are welcome! If you'd like to contribute, please:
 ---
 
 Thank you for visiting this repository! 🌟 Feel free to explore, use, and share the projects.
+
+## License
+
+Code is released under the [MIT License](LICENSE). Datasets keep their original source licences.
